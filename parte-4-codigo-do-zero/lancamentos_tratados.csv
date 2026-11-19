@@ -1,0 +1,23 @@
+Nome;E-mail;Valor;Data;Produto;Forma de pagamento;Vendedora;Qtd. parcelas;Problemas
+Alice Moreira;alice.moreira@example.com;397;03/08/2026;Curso Básico;Pix;Lívia;;
+Breno Tavares;breno.tavares@example.com;499;05/08/2026;Curso Avançado;boleto 1/3;Marta;3;
+Carla Dias Furtado;carla.furtado@example.com;300;10/08/2026;Mentoria;entrada pix + 3 boletos de 232,33;lívia;3;
+Elaine Prado;elaine.prado@example.com;211.97;20/08/2027;Curso Básico;boleto 2x;Marta;2;data posterior à data atual
+Breno Tavares;breno.tavares@example.com;499;05/09/2026;Curso Avançado;boleto 2/3;marta;3;
+Lorena Couto;lorena.couto@example.com;144.39;05/09/20026;Curso Básico;boleto 3x;Lívia;3;data inválida
+Carla Dias Furtado;;232.33;10/09/2026;Mentoria;boleto 1/3;Lívia;3;e-mail vazio
+Otávio Sampaio;otavio.sampaio@example.com;374.25;15/09/2026;Curso Avançado;1ª parcela boleto 4x;Marta;4;
+Murilo Antunes;murilo.antunes@example.com;1200;24/09/2026;Curso Avançado;Pix REEMBOLSADO;Lívia;;
+Tomás Lacerda;tomas.lacerda@example.com;499;02/10/2026;Mentoria;entrada de 499 + 2 parcelas de 399;Marta;9;
+Breno Tavares;breno.tavares@example.com;499;05/10/2026;Curso Avançado;parcela 3 de 3;Marta;3;
+Lorena Couto;lorena.couto@example.com;144.39;05/10/2026;Curso Básico;boleto 2/3;Lívia;3;
+Carla Dias Furtado;carla.furtado@example.com;232.33;10/10/2026;Mentoria;boleto 2/3;Lívia;3;
+Olívia Nunes;olivia.nunes@example.com;397;12/10/2026;Curso Básico;plataforma;Marta;;
+Olívia Nunes;olivia.nunes@example.com;397;12/10/2026;Curso Básico;plataforma;Marta;;linha duplicada
+Heitor Valadares;heitor.valadares@example.com;1497;14/10/2026;Curso Avançado;Pix;Lívia;;
+Isadora Valadares;isadora.valadares@example.com;0;14/10/2026;Curso Avançado;acesso extra, Heitor Valadares pagou;;;
+Otávio Sampaio;otavio.sampaio@example.com;374.25;15/10/2026;Curso Avançdo;2ª parcela;Marta;2;produto não reconhecido
+Renan Bastos;renan.bastos@example.com;600;20/10/2026;Mentoria;600 na plataforma, restante no pix;Lívia;;
+Renan Bastos;renan.bastos@example.com;397;22/10;Mentoria;pix (restante);Lívia;;data inválida
+Tomás Lacerda;tomas.lacerda@example.com;399;02/11/2026;Mentoria;parcela 1 de 2;Marta;2;
+Otávio Sampaio;otavio.sampaio@example.com;374.25;15/11/2026;Curso Avançado;parcela 3;Marta;3;
